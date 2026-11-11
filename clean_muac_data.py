@@ -17,7 +17,7 @@ print("Here's the correct readings of muac status...")
 print(df)
 
 #Export the cleaned data into excel file
-df.to_excel('humanitarian_nutrition_clened_data.xlsx', index=False)
+df.to_excel('humanitarian_nutrition_cleaned_data.xlsx', index=False)
 
 #Confirming the generation of excel file
 print('Excel file with cleaned data was generated.')
