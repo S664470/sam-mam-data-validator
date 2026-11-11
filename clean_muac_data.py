@@ -12,7 +12,7 @@ print(errors[['child_id', 'camp_name', 'muac_cm', 'status']], '\n')
 
 
 #Correcting the informatin with loc[]
-df.loc[(df['muac_cm'] < 11.5) & (df['status'] != 'MAM'), 'status' ] = 'SAM'
+df.loc[(df['muac_cm'] < 11.5) & (df['status'] != 'SAM'), 'status' ] = 'SAM'
 print("Here's the correct readings of muac status...")
 print(df)
 
