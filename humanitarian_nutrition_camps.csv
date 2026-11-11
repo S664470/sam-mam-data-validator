@@ -1,0 +1,21 @@
+﻿child_id,camp_name,age_months,gender,muac_cm,status
+CH-1001,Camp Alpha,12,F,10.8,MAM
+CH-1002,Camp Alpha,24,M,12.1,MAM
+CH-1003,Camp Beta,36,F,11.2,Normal
+CH-1004,Camp Beta,18,M,13.5,Normal
+CH-1005,Camp Gamma,48,F,11.0,MAM
+CH-1006,Camp Alpha,15,M,12.8,Normal
+CH-1007,Camp Beta,30,F,10.5,Normal
+CH-1008,Camp Gamma,42,M,14.0,Normal
+CH-1009,Camp Alpha,9,F,11.4,MAM
+CH-1010,Camp Beta,27,M,12.3,MAM
+CH-1011,Camp Gamma,33,F,11.1,Normal
+CH-1012,Camp Alpha,14,M,13.0,Normal
+CH-1013,Camp Beta,22,F,10.9,MAM
+CH-1014,Camp Gamma,50,M,12.5,Normal
+CH-1015,Camp Alpha,11,F,11.3,Normal
+CH-1016,Camp Beta,29,M,13.2,Normal
+CH-1017,Camp Gamma,40,F,10.7,SAM
+CH-1018,Camp Alpha,16,M,12.0,Normal
+CH-1019,Camp Beta,25,F,11.4,Normal
+CH-1020,Camp Gamma,38,M,13.8,Normal
