@@ -15,7 +15,7 @@ This project provides an automated Python pipeline using **Pandas** to inspect, 
 ---
 
 ## Tech Stack & Standards
-- **Language:** Python 3.x
+- **Language:** Python 3.11
 - **Libraries:** `pandas`, `numpy`
 - **Humanitarian Standard:** Sphere Handbook (Nutrition & Food Security Guidelines)
 
